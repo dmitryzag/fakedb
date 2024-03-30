@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "places": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Кремль",
+      "rating": 5,
+      "location": "Российская Федерация, Москва, Красная площадь",
+      "price_starts_from": 100000,
+      "images": [
+        "url": "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/76b3c4b8-6425-40ef-8b7f-4e83277cc4f1/-/resize/1400x/-/quality/lighter/"
+      ]
     }
   ],
   "profile": {
