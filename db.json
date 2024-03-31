@@ -4,84 +4,132 @@
       "name": "Кремль",
       "rating": 5,
       "location": "Российская Федерация, Москва, Красная площадь",
-      "trip_price_starts_from": 100000
+      "trip_price_starts_from": 100000,
+      "images": [
+        "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/76b3c4b8-6425-40ef-8b7f-4e83277cc4f1/-/resize/1400x/-/quality/lighter/",
+        "https://sk-moskvich.ru/attaches/files/d53b7577c747bc9fa583c39fcb2a0d94.jpg",
+        "https://opis-cdn.tinkoffjournal.ru/mercury/in-out-moskva-zlatye-kupola.qxvnimvrguag..jpg"
+      ]
     },
     {
         "name": "Эрмитаж",
         "rating": 4.8,
         "location": "Российская Федерация, Санкт-Петербург, Дворцовая площадь",
         "trip_price_starts_from": 80000,
-        "description": "Один из крупнейших музеев мира, расположенный в историческом центре Санкт-Петербурга."
+        "description": "Один из крупнейших музеев мира, расположенный в историческом центре Санкт-Петербурга.",
+        "images": [
+          "https://cdn.tripster.ru/thumbs2/1e687dd4-9976-11ed-9ef2-66b3d6a09b77.1220x600.jpeg",
+          "https://vpiteretour.ru/u/2022/08/20220413_133427-scaled.jpg",
+          "https://www.spbmuzei.ru/wp-content/uploads/2021/02/ermitag1-1140x566.jpg"
+        ]
     },
     {
         "name": "Петропавловская крепость",
         "rating": 4.6,
         "location": "Российская Федерация, Санкт-Петербург, Заячий остров",
         "trip_price_starts_from": 75000,
-        "description": "Историческая крепость, основанная Петром I, считается одной из символических достопримечательностей Санкт-Петербурга."
+        "description": "Историческая крепость, основанная Петром I, считается одной из символических достопримечательностей Санкт-Петербурга.",
+        "images": [
+          "https://cdn.tripster.ru/thumbs2/d6776694-9889-11ed-bcc3-a236f7debbf9.1220x600.jpeg",
+          "https://vpiteretour.ru/u/2022/08/20220413_133427-scaled.jpg",
+          "https://opeterburge.ru/images/article/Petropavlovskai%20krepost.jpg"
+        ]
     },
     {
         "name": "Байкал",
         "rating": 4.9,
         "location": "Российская Федерация, Иркутская область, озеро Байкал",
         "trip_price_starts_from": 120000,
-        "description": "Самое глубокое и древнее озеро на планете, известное своими кристально чистыми водами и уникальной экосистемой."
-    },
-    {
-        "name": "Эрмитаж",
-        "rating": 4.7,
-        "location": "Российская Федерация, Санкт-Петербург, Дворцовая площадь",
-        "trip_price_starts_from": 85000,
-        "description": "Императорский дворцово-парковый ансамбль в Санкт-Петербурге, включающий в себя множество музейных коллекций."
+        "description": "Самое глубокое и древнее озеро на планете, известное своими кристально чистыми водами и уникальной экосистемой.",
+        "images": [
+          "https://img.gazeta.ru/files3/345/6693345/Ice-on-Lake-Baikal-pic700-700x467-66269.jpg",
+          "https://avatars.dzeninfra.ru/get-zen_doc/9400491/pub_6415ff00811aa230997138be_6415ff6332057560b28abb08/scale_1200",
+          "https://sozvezdie-tour.ru/Images/articles_files/589/baikal_1082592_1280.jpg"
+        ]
     },
     {
         "name": "Спасская башня",
         "rating": 4.5,
         "location": "Российская Федерация, Москва, Красная площадь",
         "trip_price_starts_from": 95000,
-        "description": "Одна из старейших и самых известных башен на Красной площади в Москве, символ города."
+        "description": "Одна из старейших и самых известных башен на Красной площади в Москве, символ города.",
+        "images": [
+          "https://www.pnp.ru/upload/entities/2021/04/14/11/article/detailPicture/99/b0/f4/20/77d4839a43d5d36f663cf04ba028e28d.jpg",
+          "https://architecturalidea.com/architecture-blog/wp-content/uploads/2015/10/Spasskaya-bashnya-Moskovskogo-Kremlya.jpg",
+          "https://img.tourister.ru/files/1/5/8/8/0/8/0/9/original.jpg"
+        ]
     },
     {
         "name": "Великий Устюг",
         "rating": 4.3,
         "location": "Российская Федерация, Вологодская область, Великий Устюг",
         "trip_price_starts_from": 70000,
-        "description": "Старинный русский город с богатой историей и культурным наследием, известный своими древними храмами и архитектурой."
+        "description": "Старинный русский город с богатой историей и культурным наследием, известный своими древними храмами и архитектурой.",
+        "images": [
+          "https://cdnstatic.rg.ru/uploads/images/2023/01/19/1854_9da.jpg",
+          "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Velikii-Ustyug-Vid-Rudnev.jpg_1668448918938/orig",
+          "https://avatars.mds.yandex.net/get-marketcms/1652722/img-0197bca8-03df-4e20-8439-0966a250f6bf.jpeg/optimize"
+        ]
     },
     {
         "name": "Коломенское",
         "rating": 4.6,
         "location": "Российская Федерация, Москва, Коломенское",
         "trip_price_starts_from": 80000,
-        "description": "Исторический заповедник под открытым небом, где можно увидеть древние церкви, дворцы и парки."
+        "description": "Исторический заповедник под открытым небом, где можно увидеть древние церкви, дворцы и парки.",
+        "images": [
+          "https://cdnstatic.rg.ru/uploads/images/2023/01/19/1854_9da.jpg",
+          "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Velikii-Ustyug-Vid-Rudnev.jpg_1668448918938/orig",
+          "https://avatars.mds.yandex.net/get-marketcms/1652722/img-0197bca8-03df-4e20-8439-0966a250f6bf.jpeg/optimize"
+        ]
     },
     {
         "name": "Кизи",
         "rating": 4.4,
         "location": "Российская Федерация, Республика Карелия, Кижи",
         "trip_price_starts_from": 90000,
-        "description": "Исторический архипелаг на Онежском озере, известный своими древними деревянными церквями и уникальной архитектурой."
+        "description": "Исторический архипелаг на Онежском озере, известный своими древними деревянными церквями и уникальной архитектурой.",
+        "images": [
+          "https://cdnstatic.rg.ru/uploads/images/2023/01/19/1854_9da.jpg",
+          "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Velikii-Ustyug-Vid-Rudnev.jpg_1668448918938/orig",
+          "https://avatars.mds.yandex.net/get-marketcms/1652722/img-0197bca8-03df-4e20-8439-0966a250f6bf.jpeg/optimize"
+        ]
     },
     {
         "name": "Великий Новгород",
         "rating": 4.7,
         "location": "Российская Федерация, Новгородская область, Великий Новгород",
         "trip_price_starts_from": 85000,
-        "description": "Один из старейших городов России с богатой историей и множеством древних памятников архитектуры."
+        "description": "Один из старейших городов России с богатой историей и множеством древних памятников архитектуры.",
+        "images": [
+          "https://cdnstatic.rg.ru/uploads/images/2023/01/19/1854_9da.jpg",
+          "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Velikii-Ustyug-Vid-Rudnev.jpg_1668448918938/orig",
+          "https://avatars.mds.yandex.net/get-marketcms/1652722/img-0197bca8-03df-4e20-8439-0966a250f6bf.jpeg/optimize"
+        ]
     },
     {
         "name": "Псковская крепость",
         "rating": 4.5,
         "location": "Российская Федерация, Псковская область, Псков",
         "trip_price_starts_from": 75000,
-        "description": "Историческая крепость, защищавшая город от врагов, с множеством старинных крепостных сооружений."
+        "description": "Историческая крепость, защищавшая город от врагов, с множеством старинных крепостных сооружений.",
+        "images": [
+          "https://cdnstatic.rg.ru/uploads/images/2023/01/19/1854_9da.jpg",
+          "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Velikii-Ustyug-Vid-Rudnev.jpg_1668448918938/orig",
+          "https://avatars.mds.yandex.net/get-marketcms/1652722/img-0197bca8-03df-4e20-8439-0966a250f6bf.jpeg/optimize"
+        ]
     },
     {
         "name": "Красная площадь",
         "rating": 4.8,
         "location": "Российская Федерация, Москва, Красная площадь",
         "trip_price_starts_from": 110000,
-        "description": "Символическая площадь в Москве, на которой расположены такие знаменитые архитектурные памятники, как Собор Василия Блаженного и Спасская башня."
+        "description": "Символическая площадь в Москве, на которой расположены такие знаменитые архитектурные памятники, как Собор Василия Блаженного и Спасская башня.",
+        "images": [
+          "https://cdnstatic.rg.ru/uploads/images/2023/01/19/1854_9da.jpg",
+          "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Velikii-Ustyug-Vid-Rudnev.jpg_1668448918938/orig",
+          "https://avatars.mds.yandex.net/get-marketcms/1652722/img-0197bca8-03df-4e20-8439-0966a250f6bf.jpeg/optimize"
+        ]
     }
   ]
 }
